@@ -6,7 +6,7 @@ This is a responsive and interactive **To-Do List** application built using **Re
 
 ## 📸 Screenshot
 
-![App Screenshot](./f2a757d2-8fd2-43c9-9a82-a38b1ea80a5c.png)
+![App Screenshot](./src/assets/Screenshot%202025-06-15%20220030.png)
 
 ---
 
